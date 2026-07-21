@@ -9,13 +9,13 @@ plataforma (Shopee, TikTok Shop, Presencial), estoque e clientes alcançados.
 2. Abra um terminal na pasta do projeto e instale as dependências:
 
    ```
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
    ```
 
 3. Rode o app:
 
    ```
-   streamlit run app.py
+   python -m streamlit run app.py
    ```
 
 4. Vai abrir automaticamente no navegador (algo como `http://localhost:8501`).
